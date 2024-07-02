@@ -1,0 +1,92 @@
+[
+  {
+    "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "autor": "Robert C. Martin",
+    "area": "Software Development",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL._SX374_BO1,204,203,200_.jpg",
+    "editora": "Prentice Hall",
+    "ano_de_publicacao": 2008,
+    "isbn": "978-0132350884"
+  },
+  {
+    "titulo": "The Pragmatic Programmer: Your Journey to Mastery",
+    "autor": "Andrew Hunt, David Thomas",
+    "area": "Software Development",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41as+WafrFL._SX258_BO1,204,203,200_.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 1999,
+    "isbn": "978-0201616224"
+  },
+  {
+    "titulo": "Introduction to the Theory of Computation",
+    "autor": "Michael Sipser",
+    "area": "Computer Science",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41U2QWQ2QNL._SX396_BO1,204,203,200_.jpg",
+    "editora": "Cengage Learning",
+    "ano_de_publicacao": 2012,
+    "isbn": "978-1133187790"
+  },
+  {
+    "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "area": "Software Development",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51k+KXufYsL._SX374_BO1,204,203,200_.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 1994,
+    "isbn": "978-0201633610"
+  },
+  {
+    "titulo": "Effective Java",
+    "autor": "Joshua Bloch",
+    "area": "Java Programming",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/518FqJvR9eL._SX396_BO1,204,203,200_.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 2017,
+    "isbn": "978-0134685991"
+  },
+  {
+    "titulo": "You Don't Know JS: Scope & Closures",
+    "autor": "Kyle Simpson",
+    "area": "JavaScript Programming",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51Sn8PEXwcL._SX379_BO1,204,203,200_.jpg",
+    "editora": "O'Reilly Media",
+    "ano_de_publicacao": 2014,
+    "isbn": "978-1491904149"
+  },
+  {
+    "titulo": "Structure and Interpretation of Computer Programs",
+    "autor": "Harold Abelson, Gerald Jay Sussman",
+    "area": "Computer Science",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51X4IZ0F2AL._SX379_BO1,204,203,200_.jpg",
+    "editora": "MIT Press",
+    "ano_de_publicacao": 1996,
+    "isbn": "978-0262510875"
+  },
+  {
+    "titulo": "Code Complete: A Practical Handbook of Software Construction",
+    "autor": "Steve McConnell",
+    "area": "Software Development",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51-L8HBzPkL._SX396_BO1,204,203,200_.jpg",
+    "editora": "Microsoft Press",
+    "ano_de_publicacao": 2004,
+    "isbn": "978-0735619678"
+  },
+  {
+    "titulo": "The Art of Computer Programming, Volumes 1-4",
+    "autor": "Donald E. Knuth",
+    "area": "Computer Science",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41y7CsBclLL._SX258_BO1,204,203,200_.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 2011,
+    "isbn": "978-0321751041"
+  },
+  {
+    "titulo": "Refactoring: Improving the Design of Existing Code",
+    "autor": "Martin Fowler",
+    "area": "Software Development",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41rYwzWG9vL._SX396_BO1,204,203,200_.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 2018,
+    "isbn": "978-0134757599"
+  }
+]
